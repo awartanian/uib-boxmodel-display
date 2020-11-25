@@ -1,0 +1,27 @@
+.fixme1 .one {
+    display: block;
+}
+
+.fixme1 .two {
+    display: block;
+}
+
+.fixme1 .tri {
+    display: block;
+}
+
+.fixme2 .one {
+    display: inline-block;
+}
+
+.fixme2 .two {
+    display: inline-block;
+}
+
+.fixme2 .tri {
+    display: inline-block;
+}
+
+.fixme3 li {
+display: inline-block;
+}

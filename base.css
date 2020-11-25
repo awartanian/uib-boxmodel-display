@@ -2,6 +2,7 @@
 
 .fixme1 img {
     width:200px;
+    display: inline-block;
 }
 
 .fixme2 {
